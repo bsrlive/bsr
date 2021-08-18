@@ -64,6 +64,7 @@ a.item-show:hover {
   margin: 0 0 1em 0;
   padding: 8px 12px;
   border-bottom: 1px solid rgb(100, 100, 100);
+  box-shadow: 0px 1px 16px grey;
 }
 
 #title {
